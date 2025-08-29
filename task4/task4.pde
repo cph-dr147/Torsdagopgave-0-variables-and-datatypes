@@ -40,6 +40,7 @@ println(divisionResult);
 
 println("");
 
+//4.g
 result = 7+10 +3;
 println(result);
 divisionResult = (10/2)+3;
@@ -47,6 +48,7 @@ println(divisionResult);
 
 println("");
 
+//4.h
 result = 7+10 -1;
 println(result);
 divisionResult = (10/2)-1;
